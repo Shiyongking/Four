@@ -1,3 +1,2 @@
 # MyGmall
-push test
-new Gmall
+first push
